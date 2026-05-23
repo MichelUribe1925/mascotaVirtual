@@ -26,7 +26,12 @@ Solo necesitas tener instalado **Python 3.x** en tu sistema. No requiere ninguna
 ## 💻 Cómo ejecutar el proyecto
 
 1. **Clona este repositorio** en tu máquina local:
-   ```bash
-   cd TU_REPOSITORIO
-   mascotaVirtual.py
- 
+   git clone [https://github.com/TU_USUARIO/waffle-mascota-virtual.git](https://github.com/TU_USUARIO/waffle-mascota-virtual.git)
+Navega al directorio del proyecto:
+
+Bash
+   cd waffle-mascota-virtual
+Ejecuta el script:
+
+Bash
+   python mascotaVirtual.py
