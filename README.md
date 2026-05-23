@@ -27,4 +27,6 @@ Solo necesitas tener instalado **Python 3.x** en tu sistema. No requiere ninguna
 
 1. **Clona este repositorio** en tu máquina local:
    ```bash
-   git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
+   cd TU_REPOSITORIO
+   mascotaVirtual.py
+ 
