@@ -18,7 +18,7 @@ while energia > 0:
         felicidad = felicidad + 20
         print(f"{nombre} esta cansado pero feliz de jugar contigo")
     elif opcion == "3":
-        print("         (=^･ω･^=)          ")
+        print("         (／・ω・)／          ")
         print(f"Energia: {energia}")
         print(f"Felicidad: {felicidad}")
     elif opcion == "4":
